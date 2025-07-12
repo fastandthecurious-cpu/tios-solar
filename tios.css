@@ -144,7 +144,7 @@ body, html {
 @media (max-width: 768px) {
     .contact {
         flex-direction: column;
-        gap: 10px;
+        gap: 5px;
         text-align: center;
     }
 
