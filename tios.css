@@ -4,7 +4,7 @@ body, html {
     padding: 0;
     height: 100%;
     font-family: 'Segoe UI', sans-serif;
-    overflow: hidden; /* Prevent scrolling */
+    overflow-x: hidden; /* Prevent scrolling */
 }
 
 /* Hero section full screen */
